@@ -1,3 +1,1 @@
-Reducer Exercises
-
-Working with `array.reduce()`
+Simple boilerplate code to get a redux project started.
